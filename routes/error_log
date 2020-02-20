@@ -1,0 +1,4 @@
+[18-Feb-2020 08:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/u749386953/domains/thinktive.me/public_html/farm/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/u749386953/domains/thinktive.me/public_html/farm/routes/web.php on line 14
